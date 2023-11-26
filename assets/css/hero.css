@@ -177,6 +177,7 @@
 .hero .background-content .glitch-img 
 {
 	background-size: cover;
+    background-position: center;
 }
 
 .hero .background-content .bg-color
@@ -221,6 +222,7 @@
 {
     margin-top: 10px;
     margin-bottom: 20px;
+    width: 150px;
 }
 
 .hero .front-content .cycle-wrapper

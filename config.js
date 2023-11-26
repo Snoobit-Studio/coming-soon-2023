@@ -1,11 +1,5 @@
 /******************************************************************
 	
-	
-	@ Item          Gravity // Coming Soon - Under Construction
-	@ Version       3.6
-	@ Author		Avanzare
-	@ Website		http://themeforest.net/user/avanzare 
-	
 
  ******************************************************************/
  
@@ -122,7 +116,7 @@
 		// "on" = OPTION ACTIVATED
 		// "off" = OPTION DEACTIVATED
 		
-		var option_hero_gravity_effect = "on";
+		var option_hero_gravity_effect = "off";
 		
 		
 		
@@ -142,7 +136,7 @@
         // "glitch" = GLITCH BACKGROUND
 		// "custom" = CUSTOM BACKGROUND
 		
-		var option_hero_background_mode = "slider";
+		var option_hero_background_mode = "youtube";
 
 
 
@@ -152,7 +146,7 @@
 				
 				
 				// IMAGE PATH / URL
-				var option_hero_background_image_path = [{src:'assets/images/1.jpg'}];
+				var option_hero_background_image_path = [{src:'assets/images/smile.jpg'}];
 		
 		
 		
@@ -276,7 +270,7 @@
 				
 				
 				// YOUTUBE URL
-				var option_hero_background_youtube_url = "https://www.youtube.com/watch?v=kB5xkGZmf_Q";
+				var option_hero_background_youtube_url = "https://www.youtube.com/watch?v=CEbWSXLQBkY";
 				
 				
 				
@@ -286,7 +280,7 @@
 				
 				
 				// END POINT IN SECONDS
-				var option_hero_background_youtube_endPoint = 90;
+				var option_hero_background_youtube_endPoint = 13;
 				
 				
 				
@@ -485,7 +479,7 @@
 
 
 				// GLITCH IMAGE
-				var option_hero_background_glitch_image = "assets/images/4.jpg";
+				var option_hero_background_glitch_image = "assets/images/smile.jpg";
 
 
 
